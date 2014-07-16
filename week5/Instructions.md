@@ -1,4 +1,4 @@
- <h2 class="course-page-header">
+<h2 class="course-page-header">
     Word Wrangler    <a class="coursera-reporter-link" title="Click here if you're experiencing technical problems or found errors in the course materials." target="_blank" href="https://class.coursera.org/principlescomputing-001/help/pages?url=https%3A%2F%2Fclass.coursera.org%2Fprinciplescomputing-001%2Fwiki%2Fview%3Fpage%3Dwrangler">
       Help
     </a>
